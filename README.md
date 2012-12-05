@@ -1,3 +1,5 @@
+This is a second test app. This time built using Hartl's tutorial.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
